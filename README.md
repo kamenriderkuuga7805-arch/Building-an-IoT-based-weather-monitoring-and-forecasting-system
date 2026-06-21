@@ -1,6 +1,8 @@
 #XÂY DỰNG HỆ THỐNG QUAN TRẮC VÀ DỰ BÁO THỜI TIẾT IOT
 
 ## 📌 Giới thiệu dự án
+"Hệ thống quan trắc và dự báo thời tiết tích hợp IoT" là dự án kết thúc học phần môn "Thực hành lập trình nhúng (PHY3625)" của thầy Đỗ Anh Tuấn. Dự án được thực hiện bởi nhóm tác giả gồm **Lại Huy Hoàng, Nguyễn Trọng Tùng, Nguyễn Thị Phương Anh, Nguyễn Bá Tiến Phát, Nguyễn Hoàng Đức, Nguyễn Hoàng Linh, Lã Quốc Huy"
+
 Dự án tập trung nghiên cứu, thiết kế và chế tạo một trạm thời tiết nhằm tự động hóa quy trình quan trắc khí tượng. Hệ thống kết hợp khả năng xử lý phần cứng tối ưu ở lớp dưới (bare-metal), giải pháp truyền thông không dây linh hoạt (Gateway) và phân tích thông minh dựa trên mô hình toán học để đưa ra các kịch bản dự báo thời tiết ngắn hạn.
 
 Bài toán khí tượng được tiếp cận dưới dạng **hồi quy tuyến tính có kiểm soát thành phần phạt (Ridge Regression)** nhằm giải quyết triệt để hiện tượng đa cộng tuyến của dữ liệu khí tượng bề mặt.
